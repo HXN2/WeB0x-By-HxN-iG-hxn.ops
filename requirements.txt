@@ -1,0 +1,5 @@
+whois
+webbrowser
+colorama
+builtwith
+os
