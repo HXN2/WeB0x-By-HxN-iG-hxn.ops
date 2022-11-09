@@ -25,7 +25,7 @@ The WeB0x project builds and tests regularly on the following platforms:
 ```
 Then to run it, execute the following in the terminal:
 ```
- Python WeB0x.py
+ python WeB0x.py
 ```
 
 \n\n
@@ -48,7 +48,7 @@ Then to run it, execute the following in the terminal:
 ```
 Then to run it, execute the following in the terminal:
 ```
- Python WeB0x.py
+ python WeB0x.py
 ```
 
 
@@ -68,7 +68,7 @@ Note 2 For Git : The latest version of Git at the ( 2022/11/9 ) is 2.38.1
 ```
 Then to run it, execute the following in the terminal:
 ```
- Python WeB0x.py
+ python WeB0x.py
 ```
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
@@ -96,7 +96,7 @@ Then to run it, execute the following in the terminal:
 ```
 Then to run it, execute the following in the terminal:
 ```
- Python WeB0x.py
+ python WeB0x.py
 ```
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
