@@ -4,6 +4,7 @@ The WeB0x project builds and tests regularly on the following platforms:
 
   - Linux (Ubuntu)
   - Android (Termux)
+  - iOS (iSH)
   - Microsoft Windows
 
 ### Installing Via [GitHub](https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops) For Linux
@@ -12,6 +13,29 @@ The WeB0x project builds and tests regularly on the following platforms:
 ```
 ```
  apt install python
+```
+```
+ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
+```
+```
+ cd WeB0x-By-HxN-iG-hxn.ops
+```
+```
+ pip install -r requirements.txt
+```
+Then to run it, execute the following in the terminal:
+```
+ Python WeB0x.py
+```
+
+\n\n
+
+### Installing Via [GitHub](https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops) For iOS
+```
+ apk add py3-pip
+```
+```
+ apk add python 
 ```
 ```
  git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
