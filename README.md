@@ -8,13 +8,13 @@ The WeB0x project builds and tests regularly on the following platforms:
 
 ### Installing Via [GitHub](https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops) For Linux (Ubuntu)
 ```
-$ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
-$ cd WeB0x-By-HxN-iG-hxn.ops
-$ pip install -r requirements.txt
+ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
+ cd WeB0x-By-HxN-iG-hxn.ops
+ pip install -r requirements.txt
 ```
 Then to run it, execute the following in the terminal:
 ```
-$ Python WeB0x.py
+ Python WeB0x.py
 ```
 
 /////
@@ -23,13 +23,13 @@ $ Python WeB0x.py
 ### Note For Microsoft Windows : Download the latest version of Git [Click Here To DownLoad Git](https://git-scm.com/downloads)
 Note 2 For Git : The latest version of Git at the ( 2022/11/9 ) is 2.38.1
 ```
-$ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
-$ cd WeB0x-By-HxN-iG-hxn.ops
-$ pip install -r requirements.txt
+ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
+ cd WeB0x-By-HxN-iG-hxn.ops
+ pip install -r requirements.txt
 ```
 Then to run it, execute the following in the terminal:
 ```
-$ Python WeB0x.py
+ Python WeB0x.py
 ```
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
@@ -40,15 +40,15 @@ $ Python WeB0x.py
 
 ### Installing Via [GitHub](https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops) For Linux & Termux
 ```
-$ apt install git
-$ apt install python
-$ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
-$ cd WeB0x-By-HxN-iG-hxn.ops
-$ pip install -r requirements.txt
+ apt install git
+ apt install python
+ git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
+ cd WeB0x-By-HxN-iG-hxn.ops
+ pip install -r requirements.txt
 ```
 Then to run it, execute the following in the terminal:
 ```
-$ Python WeB0x.py
+ Python WeB0x.py
 ```
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
