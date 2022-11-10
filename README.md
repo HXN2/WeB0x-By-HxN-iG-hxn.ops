@@ -30,8 +30,6 @@ Then to run it, execute the following in the terminal:
 ```
  python WeB0x.py
 ```
- 
-
 
 
 
@@ -115,3 +113,4 @@ Then to run it, execute the following in the terminal:
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
 
 ### Note 2 : The latest version of Python at the ( 2022/11/9 ) is 3.11.0 
+
