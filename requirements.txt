@@ -3,4 +3,3 @@ webbrowser
 colorama
 builtwith
 os
-ل
