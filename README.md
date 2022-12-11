@@ -80,7 +80,7 @@ Then to run it, execute the following in the terminal:
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
 
-### Note 2 : The latest version of Python at the ( 2022/12/04 ) is 3.11.0 
+### Note 2 : The latest version of Python at the ( 2022/12/12 ) is 3.11.1 
 
 
 
@@ -112,5 +112,5 @@ Then to run it, execute the following in the terminal:
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
 
-### Note 2 : The latest version of Python at the ( 2022/12/04 ) is 3.11.0 
+### Note 2 : The latest version of Python at the ( 2022/12/12 ) is 3.11.1
 
