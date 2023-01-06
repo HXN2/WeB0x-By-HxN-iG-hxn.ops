@@ -61,7 +61,7 @@ Then to run it, execute the following in the terminal:
 
 ### Installing Via [GitHub](https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops) For Microsoft Windows
 ### Note For Microsoft Windows : Download the latest version of Git [Click Here To DownLoad Git](https://git-scm.com/downloads)
-Note 2 For Git : The latest version of Git at the ( 2022/12/04 ) is 2.39.0
+Note 2 For Git : The latest version of Git at the ( 2023/1/7 ) is 2.39.0
 ```
  git clone https://github.com/HXN2/WeB0x-By-HxN-iG-hxn.ops.git
 ```
@@ -80,7 +80,7 @@ Then to run it, execute the following in the terminal:
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
 
-### Note 2 : The latest version of Python at the ( 2022/12/12 ) is 3.11.1 
+### Note 2 : The latest version of Python at the ( 2023/1/7 ) is 3.11.1 
 
 
 
@@ -112,5 +112,5 @@ Then to run it, execute the following in the terminal:
 
 ### Note : Download the latest version of Python [Click Here To DownLoad Python](https://www.python.org/downloads/)
 
-### Note 2 : The latest version of Python at the ( 2022/12/12 ) is 3.11.1
+### Note 2 : The latest version of Python at the ( 2023/1/7 ) is 3.11.1
 
