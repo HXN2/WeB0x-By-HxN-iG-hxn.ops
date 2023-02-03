@@ -2,10 +2,6 @@ import os
 import webbrowser
 from colorama import Fore
 
-#اول اداة ب اسم whois تحتاج محرر برمجي مثل فيجوال ستيديو كود او كومنتي للتشغيل
-
-#The first tool with a name whois You need a software editor like Visual Studio Code, or Community to run 
-
 bs = Fore.CYAN+"""
  ___       __   _______   ________  ________     ___    ___ 
 |\  \     |\  \|\  ___ \ |\   __  \|\   __  \   |\  \  /  /|
@@ -73,9 +69,7 @@ ls = (Fore.CYAN+"""
  [2] Phone ~ UniX (Android) / ioS
 """)
 print(bs)
-#اول اداة ب اسم whois تحتاج محرر برمجي مثل فيجوال ستيديو كود او كومنتي للتشغيل
 
-#The first tool with a name whois You need a software editor like Visual Studio Code, or Community to run
 print("""
 \t      Click Url To Login HxN Store
 \n
@@ -116,9 +110,6 @@ def fwb():
     webbrowser.open(url2+"/sitemap.xml")
 fwb()
 
-#اول اداة ب اسم whois تحتاج محرر برمجي مثل فيجوال ستيديو كود او كومنتي للتشغيل
-
-#The first tool with a name whois You need a software editor like Visual Studio Code, or Community to run
 
 while True:
     os.system("clear")
@@ -193,9 +184,6 @@ def fwb():
     webbrowser.open(url2+"/sitemap.xml")
 fwb()
 
-#اول اداة ب اسم whois تحتاج محرر برمجي مثل فيجوال ستيديو كود او كومنتي للتشغيل
-
-#The first tool with a name whois You need a software editor like Visual Studio Code, or Community to run
 
 while True:
     os.sytem("clear")
@@ -253,6 +241,3 @@ while True:
     if v == '99':
         exit(0)
 
-#اول اداة ب اسم whois تحتاج محرر برمجي مثل فيجوال ستيديو كود او كومنتي للتشغيل
-
-#The first tool with a name whois You need a software editor like Visual Studio Code, or Community to run
